@@ -11,5 +11,5 @@ In this project, a summary of all earthquakes in the last week (7 days) was plot
 ### Data Used:
 * https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
-![Image](Instructions_Updated/Level-1 Visualization.JPG)
+![Level-1 Visualization](https://user-images.githubusercontent.com/60052162/85216566-901d9b80-b34b-11ea-8f00-fe912df9935f.JPG)
 
